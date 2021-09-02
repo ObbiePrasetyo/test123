@@ -1,8 +1,11 @@
 # test123
 
-
 ## Sekedar Catatan kumpulan command git via cmd
+
 ##ini test
+##branchku baru
+### test 123123
+##triv edited this
 
 See What Branch You're On
 
@@ -11,7 +14,7 @@ See What Branch You're On
 
 List All Branches
 
-NOTE: The current local branch will be marked with an asterisk (*).
+NOTE: The current local branch will be marked with an asterisk (\*).
 
     To see local branches, run this command:
         git branch
@@ -68,4 +71,3 @@ Delete Branches
         git branch -d my-branch-name
         git branch -D my-branch-name
     NOTE: The -d option only deletes the branch if it has already been merged. The -D option is a shortcut for --delete --force, which deletes the branch irrespective of its merged status.
-
